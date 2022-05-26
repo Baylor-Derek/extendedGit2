@@ -41,3 +41,4 @@ Suite Teardown      Run Keywords
 1. Example Test 1
   [Documentation]  This is an example test
    Should Be True  1==1
+   should Be True  2==2
