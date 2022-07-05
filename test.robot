@@ -42,3 +42,4 @@ Suite Teardown      Run Keywords
   [Documentation]  This is an example test
    Should Be True  1==1
    should Be True  2==2
+   should Be True  3==3
