@@ -16,6 +16,7 @@ Documentation     <ID - Title> \n\n
 Library  CXTA
 Resource  cxta.robot
 
+# this is a test comment
 # Include all the keywords from the opensource libraries from robot framework:
 # http://robotframework.org/robotframework/#standard-libraries
 Library     String
