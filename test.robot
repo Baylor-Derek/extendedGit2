@@ -17,6 +17,7 @@ Library  CXTA
 Resource  cxta.robot
 
 # this is a test comment
+# this is test comment 2
 # Include all the keywords from the opensource libraries from robot framework:
 # http://robotframework.org/robotframework/#standard-libraries
 Library     String
