@@ -1,0 +1,1 @@
+We are going to test that the jobfile is created with the proper information and that when we return to this jobfile edit page the information is set correctly
